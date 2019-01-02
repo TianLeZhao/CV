@@ -6,12 +6,15 @@ Miss TianLe Zhao (tianle (at) mail.ustc.edu.cn)
    University of Science and Technology of China
 
 ## Education：
-  2011-2015, Beijing Institute of Petroleum and Chemical Technology, Baccalaureate 
+ 2011-2015, Beijing Institute of Petroleum and Chemical Technology,Thermal Energy and Power Engineering, Bachelor
+ 
+2015-2018, Yunnan Observatory, University of Chinese Academy of Sciences,Astrophysics,Master
 
-2015-2018, Yunnan Observatory, University of Chinese Academy of Sciences,Master
-
-2018-now,  University of Science and Technology of China,Phd
-      
+2018-now,  University of Science and Technology of China,Astrophysics,Phd
+## Research Interests
+   Plasma physics
+   Active Galactic Nucleus
+   Numerical simulation
 ## Publications
 
 1. Zhao, et al, 2018, RAA, 18, 45
