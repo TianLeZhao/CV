@@ -19,4 +19,4 @@ Miss TianLe Zhao (tianle (at) mail.ustc.edu.cn)
    Numerical simulation
 ## Publications
 
-1. Zhao, et al, 2018, RAA, 18, 45
+1. Zhao, T. L., Ni, L., Lin, J., & Ziegler, U. 2018, Research in Astronomy and Astrophysics, 18, 045
